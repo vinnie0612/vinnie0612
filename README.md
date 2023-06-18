@@ -1,0 +1,5 @@
+- 👋 Heyo, I’m @vinnie0612
+- 👀 I’m interested in Backend, DevOps, Networking
+- 🌱 I’m currently learning Python, Flask
+- 💞️ I’m looking to collaborate on anything
+- 📫 Reach me at me@vinn.fun
